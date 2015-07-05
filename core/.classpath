@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry sourcepath="/home/yegorf1/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.5.6/478a70a74278275ea7a73ae1bf4519c5162ff388/gdx-1.5.6-sources.jar" kind="lib" path="/home/yegorf1/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.5.6/93418008f79684e0fbe15d487c82c21b63389f18/gdx-1.5.6.jar" exported="true"/>
+	<classpathentry sourcepath="/home/yegorf1/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.5.6/96873380712436260c3d52c9eca5bd050c95304/gdx-freetype-1.5.6-sources.jar" kind="lib" path="/home/yegorf1/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.5.6/c3bac4af85559dfda8b72cc40be772805d812bb/gdx-freetype-1.5.6.jar" exported="true"/>
+	<classpathentry sourcepath="/home/yegorf1/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-controllers/1.5.6/c0313249aaf0bc819c2cc9ff2d020302dd542a93/gdx-controllers-1.5.6-sources.jar" kind="lib" path="/home/yegorf1/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-controllers/1.5.6/be5fd0a5f5ee116bf536ba103f85de165036aaaa/gdx-controllers-1.5.6.jar" exported="true"/>
+</classpath>
